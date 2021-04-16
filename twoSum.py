@@ -1,4 +1,3 @@
-
 # Two Sum
 def twoSum(self, nums: List[int], target: int) -> List[int]:
         # two nested lists add up the sum and put it into lists
